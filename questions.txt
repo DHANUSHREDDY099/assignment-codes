@@ -1,0 +1,16 @@
+QUES1:
+write a code to read an integer and reverse it.
+
+QUES2:
+write a code to print a pyramid using (*) .
+
+QUES3:
+write a code to print a pyramid of incrementing integers.
+
+QUES4:
+write a code to take name as input and ask for a code to allow access.
+
+QUES5:
+write a code to convert a decimal no. into binary .
+ 
+

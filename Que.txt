@@ -1,0 +1,15 @@
+ Q1. Write a program in C to convert a Binary to its Decimal.
+     (use while loop, math.h)
+
+ Q2. Write a program in C to find wheter two matrices can be multiplied or not.
+     (use if else statement)
+
+ Q3. Write a program  in C to check whether a given year is leap year or not.
+     (use if else statement)
+
+ Q4. Write a program in C to find the HCF of two numbers.
+     (use for loop)
+
+ Q5. Write a program in C to find angle of an n sided polygon.
+     (use angle formula as float function)
+

@@ -1,0 +1,8 @@
+Ques 1: Write a program to find ASCII value of a character.
+Ques 2: Write a program to print 24 hours of day with suitable
+        suffixes like AM,PM,Noon,and Midnight.
+Ques 3: Write a program to generate all Pythagorian Triplet with
+        side length less than or equal to 30.
+Ques 4: Write a program to convert a unit km to mile,inches to foot,
+        cms to inches, pound to kg, inches to metres .
+Ques 5: Write a program to make a pallindrom. 

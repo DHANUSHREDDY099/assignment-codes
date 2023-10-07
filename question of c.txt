@@ -1,0 +1,5 @@
+1. Make simple calculator with the help of c program?
+2. Make pyramid like structure with * in c program?
+3.pridict the week day for given input as the date of month from users input( assume first day of month is monday)?
+4.make pascal triangal of given cofficent?
+5.find roots of qudretic eqation?

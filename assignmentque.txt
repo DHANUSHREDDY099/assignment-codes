@@ -1,0 +1,11 @@
+Name-maitrya sontakke
+roll no.-123ec0014
+
+ASSIGNMENT 1:
+
+1)C Program to Find the Roots of a Quadratic Equation
+2)C Program to Add Two Matrices Using Multi-dimensional Arrays
+3)C Program to Display Fibonacci Sequence
+4) C Program to Display Armstrong Number Between Two Intervals
+5)C Program to Calculate the Power of a Number
+

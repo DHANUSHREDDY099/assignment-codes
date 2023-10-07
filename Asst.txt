@@ -1,0 +1,22 @@
+123EC0001
+J V Kousthub
+
+1. If a five-digit number is input through the keyboard, write a
+   program to calculate the sum of its digits.Use the modulus operator ‘%’
+
+2. A cashier has currency notes of denominations 10, 50 and
+   100. If the amount to be withdrawn is input through the
+   keyboard in hundreds, find the total number of currency notes
+   of each denomination the cashier will have to give to the
+   withdrawer.
+
+ 3. Given the coordinates (x, y) of a center of a circle and it’s radius,
+    write a program which will determine whether a point lies inside
+    the circle, on the circle or outside the circle.
+
+4.  Write a program to print all the ASCII values and their
+    equivalent characters using a while loop. The ASCII values vary from 0 to 255.
+
+5.  Write a program to obtain transpose of a 4 x 4 matrix. The
+    transpose of a matrix is obtained by exchanging the elements
+    of each row with the elements of the corresponding column.

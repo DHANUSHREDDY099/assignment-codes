@@ -1,0 +1,14 @@
+1)calculator program for mathmatical operartion like addition, substraction, multiplication,division using SWITCH case.
+
+2)Using for loop to create a structure of star.
+
+3)Using switch to count the number of each different letter grade students earned on an exam.
+
+4)To calculate and print the amount of money in the account at the end of each year for 10 years, assuming a 5% interest rate and leaving all interest on deposit, we can use the formula:
+
+A = P * (1 + r)^n
+
+Where:
+A is the amount of money in the account at the end of the year.
+
+5)For statement to sum all the even integers from 2 to 100.

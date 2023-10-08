@@ -1,0 +1,11 @@
+                                       C Programming Questions
+
+  1. Write a C program to convert a decimal number to binary .
+
+  2. Write a C program to find  value of determinant.
+
+  3. Write a C program to find prime numbers in a given range.
+
+  4. Write a C program to reverse a given word.
+
+  5. Write a C program to print a pyramid of "*" .                                   

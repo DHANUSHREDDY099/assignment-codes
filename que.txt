@@ -1,0 +1,9 @@
+q1. given number is perfect or not
+
+q2.size of the function(int,long,float,char)
+
+q3.comparsion between the car prices using if else loop given by the user
+
+q4.print star pattern as pyramid
+
+q5.program to convert  celcius to farhenheit

@@ -1,0 +1,5 @@
+Q1 Wite a C program t oprint ODD numbers from 1 to N using while loop.
+Q2  Write a program to print EVEN numbers fron 1 to N using while loop.
+Q3  Write a C program to print all upercase alphaets using while loop.
+Q4  Write a C program to find sum of first N natural number. 
+Q5  Write a C program to print all lowercase alphabets using while loop.
